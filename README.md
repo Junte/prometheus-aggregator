@@ -1,1 +1,1 @@
-# prometheus-aggregator
+# prometheus-gateway
